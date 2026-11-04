@@ -1,7 +1,1 @@
-# vpn-
-https://github.com/Epodonios/v2ray-configs/issues/73#issuecomment-4199271235
-https://github.com/amirhosseinesmaeilnejadtanha-cloud/vpn-/actions/workflows/blank.yml
-.github/workflows/blank.yml
-https://github.com/amirhosseinesmaeilnejadtanha-cloud/v2ray-configs/commit/aa8121ee8e17674588f3a0bb9aa0634397f8b020
-8596049fc67c821226da5500c5e21cb658118249
-https://github.com/amirhosseinesmaeilnejadtanha-cloud/vpn-/commit/86819398b3101645f50808c1a312c7f3e4c30448
+file https://github.com/amirhosseinesmaeilnejadtanha-cloud/vpn-/commit/fdc8f8e98d7f44c12259f0e7f837b296a021672bodemehttps://github.com/amirhosseinesmaeilnejadtanha-cloud/vpn-/commit/fdc8f8e98d7f44c12259f0e7f837b296a021672b
